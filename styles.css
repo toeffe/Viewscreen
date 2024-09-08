@@ -4,12 +4,12 @@ body {
     margin: 0;
     padding: 20px;
     background-color: #f4f4f4;
-    text-align: center;
+    text-align: left;
     background: linear-gradient(45deg, #788bd6, #667ede, #c5cbe3); /* Example gradient */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    text-align: center;
+    text-align: cleft;
 }
 
 .container {
